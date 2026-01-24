@@ -1,0 +1,1 @@
+The Salifort Motors HR Classification Project is a part of the capstone projected for the Google Advanced Data Analytics Certification. The data and scenarios used for this project were developed by Google, and the data in this project is fictitious.
